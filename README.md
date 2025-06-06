@@ -10,7 +10,8 @@ A notification service with Kafka
 
 These are deployed in separate dockers, with a docker for zookeper and kafka as well.
 
-To execute or try this project, you'll need to run the following docker commands:
+To execute or try this project, you'll need to run the following docker commands,
+
 < docker-compose up --build >
 < docker-compose down --volumes >
 
